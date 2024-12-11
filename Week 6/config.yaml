@@ -1,0 +1,11 @@
+file_type: csv
+dataset_name: testfile
+file_name: test_2GB
+table_name: test_table
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - id
+    - name
+    - value
